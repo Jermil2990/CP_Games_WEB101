@@ -192,7 +192,7 @@ console.log(game1);
 // create a new element to hold the name of the top pledge game, then append it to the correct element
 let topCardDiv = document.createElement('div');
 topCardDiv.classList.add('game-card');
-const display = `
+const display1 = `
         <div class = "games">
             <h1>Game Name: ${game0.name}</h1>
             <img class="game-img" src=${game0.img}>
@@ -200,6 +200,18 @@ const display = `
         </div>
         `;
 
-topCardDiv.innerHTML = display;
+topCardDiv.innerHTML = display1;
 firstGameContainer.append(topCardDiv);
 // do the same for the runner up item
+let runnerCardDiv = document.createElement('div');
+runnerCardDiv.classList.add('game-card');
+const display2 = `
+        <div class = "games">
+            <h1>Game Name: ${game1.name}</h1>
+            <img class="game-img" src=${game1.img}>
+            <p>${game1.description}</p>
+        </div>
+        `;
+
+runnerCardDiv.innerHTML = display2;
+secondGameContainer.append(runnerCardDiv);
