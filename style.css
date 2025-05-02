@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Cabin';
-    background-color: #758190;
+    background-color: #3f2136;
 }
 
 #tentacles {
@@ -11,7 +11,7 @@ body {
 
 .header {
     display: flex;
-    background-color: lightblue;
+    background-color: #763c65;
     padding: 1%;
     align-items: center;
     margin-left: -10px;
@@ -26,7 +26,7 @@ body {
 }
 
 .stats-card {
-    background-color: #a8b0bc;
+    background-color: #dcc172;
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
@@ -38,7 +38,7 @@ body {
     display:flex;
     flex-direction: column;
     align-items: center;
-    background-color: #a8b0bc;
+    background-color: #dcc172;
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
@@ -50,7 +50,7 @@ body {
     display:flex;
     flex-direction: column;
     align-items: center;
-    background-color: #a8b0bc;
+    background-color: #ddc785;
     border-radius: 7px;
     padding: 1%;
     margin: 1%;
