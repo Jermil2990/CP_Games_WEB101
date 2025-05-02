@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *CP Games*
 
 Submitted by: **Jerrick Miles**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**CP Games** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **39** hours spent in total
+Time spent: **45** hours spent in total
 
 ## Required Features
 
@@ -18,6 +18,8 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Changed CSS stlying of features on website
+* [ ] Added game cards to top games (top funded game & runner up)
 
 ## Video Walkthrough
 
@@ -26,7 +28,7 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with imgur! 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
