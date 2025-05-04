@@ -28,7 +28,9 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with imgur! 
+GIF created with Giphy! 
+
+Gif of CPGames: https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3M0bzl2c2ozaTg3OXl1dGRxMXA0d3RpMzdsNWZ1bXk0eDZuaGQwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/czPK8sDfMBrNYmz8vd/giphy.gif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
